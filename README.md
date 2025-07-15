@@ -65,7 +65,7 @@ iOS applications.
 
 1. **Add the XCFramework:**
    - Download and unzip
-     [PayValidaAntifraudSDK-iOS.zip]([PayValidaAntifraudSDK-iOS.zip](https://github.com/gamelio-pv/Antifraud-SDK/releases/download/1.0.0/PayvalidaAntifraudSDK-iOS.zip).).
+     [PayValidaAntifraudSDK-iOS.zip](https://github.com/gamelio-pv/Antifraud-SDK/releases/download/1.0.0/PayvalidaAntifraudSDK-iOS.zip.).
      This will give you the `PayValidaAntifraudSDK.xcframework` directory.
    - Open your Xcode project.
    - Drag the `PayValidaAntifraudSDK.xcframework` directory from Finder into
