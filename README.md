@@ -10,7 +10,7 @@ iOS applications.
 
 1. **Add the AAR:**
    - Download and unzip
-     [antifraud-sdk-release.aar](https://github.com/gamelio-pv/Antifraud-SDK/blob/main/antifraud-sdk-release-v1.0.0.aar).
+     [antifraud-sdk-release.aar](https://github.com/gamelio-pv/Antifraud-SDK/releases/download/1.0.0/antifraud-sdk-release.aar).
    - Copy the `antifraud-sdk-release.aar` file into the `libs` directory of your
      Android application module (e.g., `your-app/app/libs`). Create the `libs`
      directory if it doesn't exist.
@@ -65,7 +65,7 @@ iOS applications.
 
 1. **Add the XCFramework:**
    - Download and unzip
-     [PayValidaAntifraudSDK-iOS.zip]([PayValidaAntifraudSDK-iOS.zip](https://github.com/gamelio-pv/Antifraud-SDK/blob/main/PayValidaAntifraudSDK-iOS.zip).).
+     [PayValidaAntifraudSDK-iOS.zip]([PayValidaAntifraudSDK-iOS.zip](https://github.com/gamelio-pv/Antifraud-SDK/releases/download/1.0.0/PayvalidaAntifraudSDK-iOS.zip).).
      This will give you the `PayValidaAntifraudSDK.xcframework` directory.
    - Open your Xcode project.
    - Drag the `PayValidaAntifraudSDK.xcframework` directory from Finder into
